@@ -1,0 +1,17 @@
+{
+  "repo": "plume-gfx-plot-mark",
+  "thresholds": {
+    "signal": 2,
+    "slack": 2,
+    "confidence": 2,
+    "drag": 2,
+    "ship": 156,
+    "watch": 120
+  },
+  "terms": [
+    "geometry span",
+    "atlas pressure",
+    "shader drift",
+    "render budget"
+  ]
+}
